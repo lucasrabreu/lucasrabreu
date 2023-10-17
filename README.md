@@ -3,7 +3,7 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <img alt="me" src="https://avatars.githubusercontent.com/u/43235719?v=4">
 </picture>
 
 Here are some ideas to get you started:
@@ -14,6 +14,3 @@ Here are some ideas to get you started:
 
 Feel free to connect with me on [LinkedIn]([<Your LinkedIn Profile Link>](https://www.linkedin.com/in/lucasribeirodeabreu/)).
 
--->
-  - ⚡ Fun fact: ...
--->
